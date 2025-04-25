@@ -1,0 +1,10 @@
+((t>>1)*(15&0xaaaaaaaa2>>(t>>8&28))|t>>1>>(t>>11)^t>>12)+(t>>4&t&24) 32000 hz (chip remake)
+3*t^t>>6|t*(0xDEAD100|t>>5&t>>8) 16000 hz
+t*sin(t)%64|t>>6 32000 hz
+t*sin(t&t>>12) 16000 hz (modem melody remix 1)
+t*atan(t&t>>12) 11025 hz (modem melody remix 2)
+t*(46&t>>10)|(2*t&255)*(t>>6&255)>>3 16000 hz
+
+thanks for listening!
+
+:D
